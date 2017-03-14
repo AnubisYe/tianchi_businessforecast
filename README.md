@@ -1,9 +1,9 @@
 # tianchi_businessforecast
 天池IJCAI-17 口碑商家客流量预测大赛
 ## 塞题目的
-[此次赛题](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100065.200879.4.5Q90ZO&raceId=231591)要求选手根据官方给出的历史数据
-预测2000家商家在在未来14天（2016.11.01-2016.11.14）内各自每天（00:00:00-23:59:59）的客户流量。</br>
-[比赛数据下载地址](http://yunpan.taobao.com/?redirect=/s/Bq35eEB4ew?spm=5176.100068.555.4.zogxYD)
+[此次赛题](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100065.200879.4.5Q90ZO&raceId=231591)要求选手根据官方给出的历史数据预测2000家商家在在未来14天（2016.11.01-2016.11.14）内各自每天（00:00:00-23:59:59）的客户流量。</br>
+[比赛数据下载地址](http://yunpan.taobao.com/?redirect=/s/Bq35eEB4ew?spm=5176.100068.555.4.zogxYD)</br>
+比赛结束日期 2017/03/14
 ## 比赛成绩
 loss 0.09072917 排名/总参赛队伍 419/4058
 ## 代码说明
